@@ -219,3 +219,5 @@ newbee/.settings/org.eclipse.jdt.core.prefs
 newbee/.settings/org.eclipse.jdt.core.prefs
 *.prefs
 newbee/target/classes/com/jade/newbee/http/factory/HttpClientFactory.class
+newbee/.settings/org.eclipse.jdt.core.prefs
+*.class
